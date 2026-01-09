@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-09T21:13:54 IST" name="Suite" finished-at="2026-01-09T21:13:54 IST" duration-ms="52">
+    <groups>
+      <group name="smoke">
+        <method signature="demo1Test.HPTest()[pri:0, instance:Practice.demo1Test@16d04d3d]" name="HPTest" class="Practice.demo1Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-01-09T21:13:54 IST" name="Test" finished-at="2026-01-09T21:13:54 IST" duration-ms="52">
+      <class name="Practice.demo1Test">
+        <test-method signature="HPTest()[pri:0, instance:Practice.demo1Test@16d04d3d]" started-at="2026-01-09T21:13:54 IST" name="HPTest" finished-at="2026-01-09T21:13:54 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HPTest -->
+      </class> <!-- Practice.demo1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
