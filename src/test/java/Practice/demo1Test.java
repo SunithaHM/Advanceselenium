@@ -7,5 +7,6 @@ public class demo1Test {
 	@Test(groups="smoke")
 	public void HPTest() {
 		System.out.println("Harry");
+		System.out.println("Ronald");
 	}
 }
