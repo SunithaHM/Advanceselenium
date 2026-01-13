@@ -8,6 +8,6 @@ public class demo1Test {
 	public void HPTest() {
 		System.out.println("Harry");
 		System.out.println("Ronald");
-		System.out.println("potter");
+		System.out.println("Potter");
 	}
 }

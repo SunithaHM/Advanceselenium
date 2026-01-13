@@ -8,7 +8,7 @@ public class demoTest {
 	public void SMTest() {
 		System.out.println("Spider");
 		System.out.println("Man");
-		System.out.println("BatMan");
+		System.out.println("BatsMan");
 	}
 
 }
