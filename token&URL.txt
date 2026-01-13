@@ -1,5 +1,0 @@
-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
-https://github.com/SunithaHM/Advanceselenium.git
-
-==>Git installation link
-https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe 
