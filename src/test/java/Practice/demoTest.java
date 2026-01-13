@@ -7,6 +7,7 @@ public class demoTest {
 	@Test(groups="regression")
 	public void SMTest() {
 		System.out.println("Spider");
+		System.out.println("Man");
 	}
 
 }
